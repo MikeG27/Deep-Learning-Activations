@@ -11,5 +11,5 @@ Example of activation functions used in Deep Learning with visualization
 ![sigmoid](https://user-images.githubusercontent.com/21131348/75370751-e317a280-58c5-11ea-8c4c-fb2e4ab87f88.png)
 
 
-## 
+## SOFTMAX
 ![softmax](https://user-images.githubusercontent.com/21131348/75370702-ced3a580-58c5-11ea-9d82-4e7bf0bbd957.png)
